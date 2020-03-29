@@ -45,4 +45,4 @@ Generally speaking, a larger polygon area on the radar plot of sentiment represe
 
 I further extended my work to compare between brands as well. This is helpful in cases where a customer wants to study brand reputations to better understand their potential purchases. In "apple vs asus.png", the blue polygon represents customer sentiment towards Apple laptops while the green polygon represents customer sentiment towards ASUS laptops for these features.
 
-There are some caveats and room for future improvements, but the model seems generally extendable to other product categories.
+There are some caveats and room for future improvements, but the model seems extendable to other product categories.
